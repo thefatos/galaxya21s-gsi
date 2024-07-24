@@ -43,4 +43,4 @@ Now press Volume Up and you're done.
 
 # Patching image with Magisk
 
-## Note: Use Magisk version 26.3 to patch ## image, if not it will bootloop.
+**Note: Use Magisk version 26.3 to patch image, if not it will bootloop.**
