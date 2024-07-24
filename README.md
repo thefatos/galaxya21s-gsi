@@ -1,9 +1,9 @@
 # How to install a GSI (and root) your Galaxy A21s
 ## Requirments:
 - a Galaxy A21s
-- A computer (preferably running Windows)
+- a computer (preferably running Windows)
 - an USB cable
-- Common sense
+- common sense
 
 Note: This guide is tested on the SM-A217F, but it may work on other A21s varients. **If you brick your phone, I take no responsibility, but I can help you unbrick it.**
 
@@ -27,3 +27,7 @@ Now you should have Developer Options.
 Now, go to Developer Options, and enable OEM unlocking. Now your phone is able to unlock the bootloader.
 
 ![Unlocking Bootloader](https://images.tenorshare.com/topics/unlock-android/oem-unlocking.jpg?w=287&h=510)
+
+# Unlocking the bootloader
+
+To unlock the bootloader, restart your phone, and hold the **Volume Up**+**Volume Down** keys until the phone boots into the Unlock Bootloader screen. **Reminder: This will wipe all data so be careful and backup all data!!**
