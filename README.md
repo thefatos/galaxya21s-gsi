@@ -21,3 +21,9 @@ After you opened the menu, press Build Number, 7 times. It may ask you for a PIN
 ![Build number](https://images.samsung.com/is/image/samsung/assets/uk/support/how-do-i-turn-on-the-developer-options-menu-on-my-samsung-galaxy-device/4-uk-turn-on-developer-options.png?$ORIGIN_PNG$)
 
 Now you should have Developer Options.
+
+### Enabling OEM unlocking
+
+Now, go to Developer Options, and enable OEM unlocking. Now your phone is able to unlock the bootloader.
+
+![Unlocking Bootloader](https://images.tenorshare.com/topics/unlock-android/oem-unlocking.jpg?w=287&h=510)
