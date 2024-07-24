@@ -40,3 +40,7 @@ Now this screen should appear:
 ### Remember that this will wipe all data!!!
 Now press Volume Up and you're done.
 **Congratulations you unlocked your bootloader!** Time for the next step.
+
+# Patching image with Magisk
+
+## Note: Use Magisk version 26.3 to patch ## image, if not it will bootloop.
