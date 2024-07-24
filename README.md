@@ -32,4 +32,4 @@ Now, go to Developer Options, and enable OEM unlocking. Now your phone is able t
 
 To unlock the bootloader, restart your phone, and hold the **Volume Up**+**Volume Down** keys until the phone boots into the Unlock Bootloader screen. **Reminder: This will wipe all data so be careful and backup all data!!**
 
-![boot screen thing](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F041b0t6unoua1.png)
+![boot screen thing](1https://i.redd.it/041b0t6unoua1.png)
