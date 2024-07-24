@@ -14,4 +14,4 @@ To unlock your bootloader, you have to enable OEM unlocking. To enable OEM unloc
 
 Then, press System Information.
 
-![About phone](https://images.samsung.com/is/image/samsung/assets/uk/support/how-do-i-turn-on-the-developer-options-menu-on-my-samsung-galaxy-device/2-uk-turn-on-developer-options.png?$ORIGIN_PNG$)
+![System Information](https://images.samsung.com/is/image/samsung/assets/uk/support/how-do-i-turn-on-the-developer-options-menu-on-my-samsung-galaxy-device/3-uk-turn-on-developer-options.png?$ORIGIN_PNG$)
