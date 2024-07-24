@@ -36,7 +36,8 @@ To unlock the bootloader, restart your phone, and hold the **Volume Up**+**Volum
 
 Now this screen should appear:
 
-![stupid](https://i.ibb.co/V2GZh7v/device-lock.jpg)
+[<img src="https://i.ibb.co/V2GZh7v/device-lock.jpg" width="250"/>](https://i.ibb.co/V2GZh7v/device-lock.jpg)
+
 ### Remember that this will wipe all data!!!
 Now press Volume Up and you're done.
 **Congratulations you unlocked your bootloader!** Time for the next step.
