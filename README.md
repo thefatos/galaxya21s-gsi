@@ -45,3 +45,5 @@ Now press Volume Up and you're done.
 # Patching image with Magisk
 
 **Note: Use Magisk version 26.3 to patch image, if not it will bootloop.**
+
+First you need to find your CSC code, I recommend [this article](https://www.cocosenor.com/articles/android/how-to-check-your-samsung-phone-model-or-csc-region-code.html) to find it out. After finding out your CSC code (e.x SEE). 
