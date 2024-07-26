@@ -117,16 +117,18 @@ Now download KawaKernel from here
 https://github.com/samsungexynos850/KawaKernel-A217X/releases/tag/KawaKernel-Stable
 
 Don't download the permissive zip file. Now that it's downloaded, copy it to the phones internal storage. Now go to install, and install the KawaKernel, after its installed, go to Wipe --> Format Data, to format data.
-Now reboot to system. Your phone should be rooted and running the GSI!
+Now reboot to system. Your phone should be rooted and running the GSI! **Note: First boot may take more time**
 
 ## Final notes
-@thefatos This guide
+https://github.com/thefatos This guide
 
-@topjohnwu For Magisk
+https://github.com/topjohnwu For Magisk
 
 @WinterRidozi (on telegram) for repartition method
 
-@samsungexynos850 For maintaining KawaKernel
+https://github.com/RiskyGUY22 For maintaining KawaKernel
+
+https://github.com/DozNaka/ making TWRP port and original created KawaKernel
 
 If you want support, open an issue or go to the A21s telegram group
 https://t.me/+k5gU822DXnkwODk1
