@@ -53,7 +53,7 @@ Heres the firmware download for the [A217F](https://samfw.com/firmware/SM-A217F)
 
 Download Magisk 26.3 from the offical Magisk github right [here](https://github.com/topjohnwu/Magisk/releases/tag/v26.3) and install the APK file. Now extract the zip file, and copy the file that starts with AP to your phones Internal Storage. 
 
-Once it is done, open Magisk, and press Install where it says "Magisk". Now press "Select and Patch file" and select your AP file. It will take a minute but your patched firmware will be done. It should be called something like "magisk_patched_26003.tar".
+Once it is done, open Magisk, and press Install where it says "Magisk". Now press "Select and Patch file" and select your AP file. It will take a minute but your patched firmware will be done. It should be called something like "magisk_patched_26003.tar". Now copy the file (its usually in the Downloads folder in your phone) to your computer.
 
 # Flashing the boot image
 
@@ -63,3 +63,12 @@ Okay, to flash the Magisk image, download [Odin](https://xdaforums.com/t/patched
 
 Now press Volume Up.
 
+(placeholder image here)
+
+You should be in Download Mode. In the right top corner, check if the KG State says "Checking". If it says checking, you can install unoffical firmware. If it says "Prenormal". Connect your phone to the internet and change the date 7 days into the future. And redo this entire process if that happens. Now open Odin.
+
+(placeholder image here for future me)
+
+Now plug in your phone. If your phone is detected by Odin, download the Samsung USB drivers. If it still doesn't detect, do this. Close Odin. Unplug the USB. Now replug the USB cable and open Odin. It should detect. Press "AP" and select the "magisk_patched_26003.tar". Now press start. Your phone should be flashing the modified firmware. Congratulations, you rooted your phone.
+
+# Installing TWRP recovery
