@@ -108,5 +108,19 @@ https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%2
 I personally use PixelOS. Go to the releases tab of your GSI, and get the img.xz file of your GSI. Remember to not get the **slim, vndklite, vndklite_slim** versions. Now download the GSI. Now that you downloaded the GSI, extract the file.
 
 After extracting, there should be an img file. Now right click and copy it's file address. In your cmd window write
+
 `fastboot flash system (right-click so you can copy the gsi location)`
+
 Now it should flash the GSI. After it's done, reboot to recovery.
+
+Now download KawaKernel from here
+https://github.com/samsungexynos850/KawaKernel-A217X/releases/tag/KawaKernel-Stable
+
+Don't download the permissive zip file. Now that it's downloaded, copy it to the phones internal storage. Now go to install, and install the KawaKernel, after its installed, go to Wipe --> Format Data, to format data.
+Now reboot to system. Your phone should be rooted and running the GSI!
+
+## Final Credits
+@thefatos This guide
+@topjohnwu For Magisk
+@WinterRidozi (on telegram) for repartition method
+@samsungexynos850 Formaintaining KawaKernel
