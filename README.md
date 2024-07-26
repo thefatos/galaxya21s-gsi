@@ -100,8 +100,13 @@ Now in cmd, write these commands (remember to do it line after line, don't run i
 
 `fastboot delete-logical-partition product_b`
 
-Now, after doing all of this. It is time to install the GSI.
+Now, after doing all of this, keep your phone on. It is time to install the GSI.
 
 # Installing GSI
+Now pick a GSI from this list:
+https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list
+I personally use PixelOS. Go to the releases tab of your GSI, and get the img.xz file of your GSI. Remember to not get the **slim, vndklite, vndklite_slim** versions. Now download the GSI. Now that you downloaded the GSI, extract the file.
 
-Now select the GSI you want to pick from the Treble GSI List.
+After extracting, there should be an img file. Now right click and copy it's file address. In your cmd window write
+`fastboot flash system (right-click so you can copy the gsi location)`
+Now it should flash the GSI. After it's done, reboot to recovery.
