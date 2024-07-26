@@ -79,7 +79,9 @@ In TWRP, go to "Settings" and press "Terminal". In terminal, write "multidisable
 # Repartitioning
 
 Now in TWRP, press reboot and press "Fastboot". In your computer, download [platform-tools](https://dl.google.com/android/repository/platform-tools-latest-windows.zip). Extract it and go into the folder. Go to the File Explorer title bar, and press Edit Address. There write "cmd". Now you opened a cmd window in the folder.
+
 **Credit @WinterRidozi on Telegram for this method.**
+
 Download [this](https://dl.google.com/android/repository/usb_driver_r13-windows.zip) and extract it. Open device manager, there should be an Other Devices option, right click it and press Update Driver.
 Select the option to select the driver from your system. Select the folder inside the folder you extracted. Now you should be able to use fastboot.
 Now in cmd, write these commands (remember to do it line after line, don't run it all at once).
