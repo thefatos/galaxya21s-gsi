@@ -79,4 +79,4 @@ Now, once the flashing is done, wait for your phone to turn on. After it turns o
 
 In TWRP, go to "Settings" and press "Terminal". In terminal, write "multidisabler". This will disable encryption. After it's done, go to Wipe, Format Data, and format the data. Now reboot phone to recovery again.
 
-# Installing GSI
+# Repartitioning
