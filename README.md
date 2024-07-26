@@ -121,6 +121,9 @@ Now reboot to system. Your phone should be rooted and running the GSI!
 
 ## Final Credits
 @thefatos This guide
+
 @topjohnwu For Magisk
+
 @WinterRidozi (on telegram) for repartition method
-@samsungexynos850 Formaintaining KawaKernel
+
+@samsungexynos850 For maintaining KawaKernel
