@@ -63,11 +63,7 @@ Okay, to flash the Magisk image, download [Odin](https://xdaforums.com/t/patched
 
 Now press Volume Up.
 
-(placeholder image here)
-
 You should be in Download Mode. In the right top corner, check if the KG State says "Checking". If it says checking, you can install unoffical firmware. If it says "Prenormal". Connect your phone to the internet and change the date 7 days into the future. And redo this entire process if that happens. Now open Odin.
-
-(placeholder image here for future me)
 
 Now plug in your phone. If your phone is detected by Odin, download the Samsung USB drivers. If it still doesn't detect, do this. Close Odin. Unplug the USB. Now replug the USB cable and open Odin. It should detect. Press "AP" and select the "magisk_patched_26003.tar". Now press start. 
 Your phone should be flashing the modified firmware. Congratulations, you rooted your phone.
