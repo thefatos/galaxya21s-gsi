@@ -51,7 +51,7 @@ Now, I personally use SamFW to download the firmware since it is the fastest, bu
 
 Heres the firmware download for the [A217F](https://samfw.com/firmware/SM-A217F). Now download the firmware using your CSC code. After is it done, turn on your phone and set it up.
 
-Download Magisk 26.3 from the offical Magisk github right [here](https://github.com/topjohnwu/Magisk/releases/tag/v26.3) and install the APK file. Now extract the zip file, and copy the file that starts with AP to your phones Internal Storage. 
+Download Magisk 26.3 from the offical Magisk github right [here](https://github.com/topjohnwu/Magisk/releases/tag/v26.3) and install the APK file. Now extract the firmware zip file, and copy the file that starts with AP to your phones Internal Storage. 
 
 Once it is done, open Magisk, and press Install where it says "Magisk". Now press "Select and Patch file" and select your AP file. It will take a minute but your patched firmware will be done. It should be called something like "magisk_patched_26003.tar". Now copy the file (its usually in the Downloads folder in your phone) to your computer.
 
@@ -72,3 +72,5 @@ You should be in Download Mode. In the right top corner, check if the KG State s
 Now plug in your phone. If your phone is detected by Odin, download the Samsung USB drivers. If it still doesn't detect, do this. Close Odin. Unplug the USB. Now replug the USB cable and open Odin. It should detect. Press "AP" and select the "magisk_patched_26003.tar". Now press start. Your phone should be flashing the modified firmware. Congratulations, you rooted your phone.
 
 # Installing TWRP recovery
+
+Now, once the flashing is done, wait for your phone to turn on. After it turns on, setup the phone as normal and **connect it to the internet**. Now that it is done setting up. Let the phone be connected to the internet for around 15-20 minutes. After waiting, boot your phone to Download Mode (as explained above).
