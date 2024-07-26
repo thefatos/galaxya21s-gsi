@@ -86,12 +86,18 @@ Now in TWRP, press reboot and press "Fastboot". In your computer, download [plat
 Select the option to select the driver from your system. Select the folder inside the folder you extracted. Now you should be able to use fastboot.
 Now in cmd, write these commands (remember to do it line after line, don't run it all at once).
 
-`fastboot delete-logical-partition system_ext
-fastboot delete-logical-partition system_ext_a
-fastboot delete-logical-partition system_ext_b
-fastboot delete-logical-partition product
-fastboot delete-logical-partition product_a
-fastboot delete-logical-partition product_b`
+`fastboot delete-logical-partition system_ext`
+
+`fastboot delete-logical-partition system_ext_a`
+
+`fastboot delete-logical-partition system_ext_b`
+
+`fastboot delete-logical-partition product`
+
+`fastboot delete-logical-partition product_a`
+
+`fastboot delete-logical-partition product_b`
+
 Now, after doing all of this. It is time to install the GSI.
 
 # Installing GSI
