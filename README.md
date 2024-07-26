@@ -30,7 +30,7 @@ Now, go to Developer Options, and enable OEM unlocking. Now your phone is able t
 
 # Unlocking the bootloader
 
-To unlock the bootloader, restart your phone, and hold the **Volume Up**+**Volume Down** keys until the phone boots into the Unlock Bootloader screen. **Reminder: This will wipe all data so be careful and backup all data!!**
+To unlock the bootloader, restart your phone, and hold the **Volume Up**+**Volume Down** keys until the phone boots into the Unlock Bootloader screen. Hold the volume up key.  **Reminder: This will wipe all data so be careful and backup all data!!**
 
 [<img src="https://i.redd.it/041b0t6unoua1.png" width="250"/>](https://i.redd.it/041b0t6unoua1.png)
 
@@ -53,4 +53,13 @@ Heres the firmware download for the [A217F](https://samfw.com/firmware/SM-A217F)
 
 Download Magisk 26.3 from the offical Magisk github right [here](https://github.com/topjohnwu/Magisk/releases/tag/v26.3) and install the APK file. Now extract the zip file, and copy the file that starts with AP to your phones Internal Storage. 
 
-Once it is done, open Magisk, and press Install where it says "Magisk". Now press "Select and Patch file" and select your AP file. It will take a minute but your patched firmware will be done. It should be called something like "magisk_patched_26003.tar". 
+Once it is done, open Magisk, and press Install where it says "Magisk". Now press "Select and Patch file" and select your AP file. It will take a minute but your patched firmware will be done. It should be called something like "magisk_patched_26003.tar".
+
+# Flashing the boot image
+
+Okay, to flash the Magisk image, download [Odin](https://xdaforums.com/t/patched-odin-3-13-1.3762572/). I personally use **Odin3_v3.13.3.zip** version. Now setup your phone after you unlocked the bootloader. Make sure to connect it to the internet. After setting up the phone, shutdown the phone. Connect it to a computer and turn it on while holding the **Volume Up+ Volume Down** keys. It should boot to the download mode.
+
+[<img src="https://i.redd.it/041b0t6unoua1.png" width="250"/>](https://i.redd.it/041b0t6unoua1.png)
+
+Now press Volume Up.
+
