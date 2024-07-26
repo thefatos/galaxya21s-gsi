@@ -5,6 +5,8 @@
 - an USB cable
 - common sense
 
+### Remember this guide is only for the A217F, it may work on other variants but can't test
+
 Note: This guide is tested on the SM-A217F, but it may work on other A21s varients. **If you brick your phone, I take no responsibility, but I can help you unbrick it.**
 
 ## Enabling Developer Options
