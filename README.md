@@ -103,3 +103,5 @@ Now in cmd, write these commands (remember to do it line after line, don't run i
 Now, after doing all of this. It is time to install the GSI.
 
 # Installing GSI
+
+Now select the GSI you want to pick from the Treble GSI List.
