@@ -82,4 +82,4 @@ In TWRP, go to "Settings" and press "Terminal". In terminal, write "multidisable
 
 # Repartitioning
 
-Now in TWRP, press reboot and press "Fastboot". In your computer, download [platform-tools](https://dl.google.com/android/repository/platform-tools-latest-windows.zip). Extract it and go into the folder. Go to the File Explorer title bar, and press Edit Address. There write "cmd". Now you opened a cmd window in the folder.
+Now in TWRP, press reboot and press "Fastboot". In your computer, download [platform-tools](https://dl.google.com/android/repository/platform-tools-latest-windows.zip). Extract it and go into the folder. Go to the File Explorer title bar, and press Edit Address. There write "cmd". Now you opened a cmd window in the folder. Credit @WinterRidozi on Telegram for this method.
