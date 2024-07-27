@@ -70,7 +70,7 @@ Your phone should be flashing the modified firmware. Congratulations, you rooted
 
 # Installing TWRP recovery
 
-Now, once the flashing is done, wait for your phone to turn on. After it turns on, setup the phone as normal and **connect it to the internet**. Now that it is done setting up. Let the phone be connected to the internet for around 15-20 minutes. After waiting, boot your phone to Download Mode (as explained above). Now download TWRP from [here](https://objects.githubusercontent.com/github-production-release-asset-2e65be/520554716/63f1822a-2cd6-4ddc-8789-2882281c8542?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240726%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240726T125756Z&X-Amz-Expires=300&X-Amz-Signature=dc35bc29bf7638aa104f044193320bb325d84879d4b4033d173af31069cbf1c5&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=520554716&response-content-disposition=attachment%3B%20filename%3Drecovery.tar&response-content-type=application%2Foctet-stream) to get the recovery.tar file. Select it in AP. Let it flash. After its done, hold the **Volume Up + Power Button**. You should be in TWRP.
+Now, once the flashing is done, wait for your phone to turn on. After it turns on, setup the phone as normal and **connect it to the internet**. Now that it is done setting up. Let the phone be connected to the internet for around 15-20 minutes. After waiting, boot your phone to Download Mode (as explained above). Now download TWRP from [here](https://drive.google.com/file/d/10-hSfd28jlMCWVGG46-lpJTLiCZtCy73/view) to get the recovery.tar file. Select it in AP. Let it flash. After its done, hold the **Volume Up + Power Button**. You should be in TWRP.
 
 # Decrypting and formatting storage
 
@@ -105,9 +105,9 @@ Now pick a GSI from this list:
 https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list
 I personally use PixelOS. Go to the releases tab of your GSI, and get the img.xz file of your GSI. Remember to not get the **slim, vndklite, vndklite_slim** versions. Now download the GSI. Now that you downloaded the GSI, extract the file.
 
-After extracting, there should be an img file. Now right click and copy it's file address. In your cmd window write
+After extracting, there should be an img file. In the cmd window write:
 
-`fastboot flash system (right-click so you can copy the gsi location)`
+`fastboot flash system (drag gsi here)`
 
 Now it should flash the GSI. After it's done, reboot to recovery.
 
