@@ -115,7 +115,7 @@ Now download KawaKernel from here
 https://github.com/samsungexynos850/KawaKernel-A217X/releases/tag/KawaKernel-Stable
 
 
-Don't use Permissive for normal GSI
+Don't use Permissive for normal GSI,
 Permissive use for OEM ROM and Semi-GSI/sGSI. Now that it's downloaded, copy it to the phones internal storage. Now go to install, and install the KawaKernel, after its installed, go to Wipe --> Format Data, to format data.
 Now reboot to system. Your phone should be rooted and running the GSI! Though in your GSI, install the latest APK of Magisk and update. **Note: First boot may take more time**
 
